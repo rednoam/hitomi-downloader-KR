@@ -1,1 +1,3 @@
-# hitomi-downloader-KR
+# Hitomi Downloader Korean
+
+Image
