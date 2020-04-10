@@ -1,6 +1,11 @@
 # Hitomi Downloader Korean
 내가 사용하던게 이제 안되가지고 비슷하게 만들어봄 아직 한국어말고는 지원안됨
 
+## 다음 업데이트 예고
+v2.0 동인지 태그기능 및 기타 버그 수정 및 자동 업데이트 기능 추가
+v2.1 작가 태그기능
+v2.2 멀티 다운로드 기능 추가
+
 ## Demo
 <img src="https://github.com/jungjin0003/hitomi-downloader-KR/blob/master/img/image.PNG" width="90%"></img>
 
