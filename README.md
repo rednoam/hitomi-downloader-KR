@@ -7,7 +7,7 @@ V2.0<br>
 
 ## 다음 업데이트 예고
 v2.1 작가 태그기능 & GUI 개편<br>
-v2.2 멀티 다운로드 기능 추가<br>
+v2.2 멀티 다운로드 기능 추가 & GUI 개편<br>
 
 ## Demo
 <img src="https://github.com/jungjin0003/hitomi-downloader-KR/blob/master/img/image.PNG" width="90%"></img>
