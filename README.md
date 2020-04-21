@@ -1,6 +1,7 @@
 # Hitomi Downloader Korean
 내가 사용하던게 이제 안되가지고 비슷하게 만들어봄 아직 한국어말고는 지원안됨
-다운로드 하고 싶으시면 오른쪽에 releases 누르시고 zip 파일 다운받으시면 됩니다
+다운로드 하고 싶으시면 오른쪽에 releases 누르시고 zip 파일 다운받으시면 됩니다 <br>
+다운로드 링크 : <https://github.com/jungjin0003/hitomi-downloader-KR/releases/download/v2.0/Hitomi.Downloader.zip>
 
 ## 현재 버전
 V2.0<br>
