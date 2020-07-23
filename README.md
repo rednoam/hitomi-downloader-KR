@@ -4,7 +4,6 @@
 다운로드 링크 : <https://github.com/jungjin0003/hitomi-downloader-KR/releases> <br>
 v2.2까지 한번에 업데이트를 하려고 제작중이었는데 이번에 아청법 개정되면서 업데이트를 무기한 연기하겠습니다... <br>
 잠잠해지면 업데이트를 진행하겠습니다. 
-심심할때 영상 올리는곳 : <https://www.youtube.com/channel/UC3hPqqsMkIZpMRmAyDtV6lg> <br>
 
 ## 현재 버전
 V2.0<br>
